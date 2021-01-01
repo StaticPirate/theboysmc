@@ -1,0 +1,18 @@
+
+Info:
+  command: info
+  permission: superlobby.info
+  info:
+  - '&a- &7For information with an interactive menu type &b/menu'
+  - '&a- &7To play a mode typing &b/server'
+  - '&a- &7To get free rewards type &b/rewards'
+  - '&a- &7To see a list of basic commands type &b/help'
+  - '&a- &7To get Youtubers information, type &b/youtubers'
+  - '&a- &7For information on the rules, type &b/rules'
+  - '&a- &7For information about our community type &b/socialpages'
+  - '&a&m---------------------------------------------------'
+help:
+  command: help
+  permission: superlobby.help
+  info:
+  - '&a- &7type /server '

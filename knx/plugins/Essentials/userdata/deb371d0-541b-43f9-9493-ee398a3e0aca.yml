@@ -1,0 +1,21 @@
+logoutlocation:
+  world: world
+  x: -456.92500001192093
+  y: 78.875
+  z: -1184.441034214248
+  yaw: 106.80676
+  pitch: 22.649706
+timestamps:
+  logout: 1608919641099
+  login: 1608845459828
+  lastteleport: 1608853964222
+lastAccountName: Static_Pirate
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -521.3093183938277
+  y: 64.0
+  z: -1269.4908858754627
+  yaw: 288.67786
+  pitch: 16.34934
+afk: false

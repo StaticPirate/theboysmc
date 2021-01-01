@@ -1,0 +1,20 @@
+logoutlocation:
+  world: world
+  x: -457.286991593104
+  y: 79.0
+  z: -1191.0778642987284
+  yaw: -2.6343079
+  pitch: 20.741583
+timestamps:
+  logout: 1608933649436
+  login: 1608933547600
+  lastteleport: 1608864190940
+lastAccountName: Voidwalker204
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world_the_end
+  x: 229.69999998807907
+  y: 51.0625
+  z: 0.45001639320857634
+  yaw: -89.88455
+  pitch: 2.9120216

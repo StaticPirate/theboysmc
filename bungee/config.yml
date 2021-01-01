@@ -1,0 +1,62 @@
+server_connect_timeout: 5000
+listeners:
+- query_port: 25577
+  motd: '&1* bonk * GO TO HORNY JAIL!'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: true
+  host: 0.0.0.0:25588
+  max_players: 400
+  tab_size: 60
+  force_default_server: false
+remote_ping_cache: -1
+network_compression_threshold: 512
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+log_pings: true
+connection_throttle_limit: 10
+prevent_proxy_connections: false
+timeout: 30000
+player_limit: -1
+ip_forward: true
+groups:
+  md_5:
+  - admin
+remote_ping_timeout: 5000
+connection_throttle: 4000
+log_commands: false
+stats: 5620d8a4-6060-402e-859e-4fb08ad4bae5
+online_mode: true
+forge_support: false
+disabled_commands:
+- disabledcommandhere
+servers:
+  lobby:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25566
+    restricted: false
+  survival:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25567
+    restricted: false
+  anarchy:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25568
+    restricted: false
+  knx:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25569
+    restricted: false

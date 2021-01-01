@@ -1,0 +1,53 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+  Trusted:
+    options:
+      prefix: '&5&L[Trusted] &5'
+    permissions:
+    - essentials.iname
+    - essentials.back
+    - essentials.home
+    - essentials.tp.position
+    - essentials.kill
+    - essentials.tp
+  Member:
+    options:
+      default: 'true'
+      prefix: '&1'
+  Owner:
+    options:
+      prefix: '&4[Owner]&F'
+      suffix: '&4[Owner]&F'
+schema-version: 1
+users:
+  deb371d0-541b-43f9-9493-ee398a3e0aca:
+    group:
+    - Owner
+    options:
+      name: Static_Pirate
+      last-logout-time: '1608919641'
+      last-login-time: '1608845459'
+  a03927db-aeda-4ab1-9e4b-1e06148d9def:
+    group:
+    - Trusted
+    options:
+      last-logout-time: '1608933649'
+      name: Voidwalker204
+      last-login-time: '1608933547'
+  e98c6eee-ca50-4290-bdba-a0ae5275f173:
+    group:
+    - Trusted
+    options:
+      name: NolitoBurrito
+      last-logout-time: '1608830010'
+  28df9bc4-0d5a-4510-8e1d-699893a372dd:
+    group:
+    - Trusted
+    options:
+      name: soursaladz
+      last-logout-time: '1608930773'
+      last-login-time: '1608929426'

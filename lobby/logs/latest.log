@@ -1,0 +1,135 @@
+[11:47:16] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:47:18] [Worker-Main-4/INFO]: Loaded 7 recipes
+[11:47:22] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[11:47:22] [Server thread/INFO]: Loading properties
+[11:47:22] [Server thread/INFO]: This server is running Paper version git-Paper-332 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[11:47:22] [Server thread/INFO]: Debug logging is disabled
+[11:47:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:47:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:47:22] [Server thread/INFO]: Default game type: ADVENTURE
+[11:47:22] [Server thread/INFO]: Generating keypair
+[11:47:23] [Server thread/INFO]: Starting Minecraft server on *:25566
+[11:47:23] [Server thread/INFO]: Using epoll channel type
+[11:47:25] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11:47:38] [Server thread/WARN]: Legacy plugin DriveBackupV2 v1.3.7 does not specify an api-version.
+[11:47:39] [Server thread/INFO]: [TAB] Loading TAB v2.8.9
+[11:47:39] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.2.1
+[11:47:39] [Server thread/INFO]: [ViaVersion] ViaVersion 3.2.1 is now loaded, injecting!
+[11:47:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[11:47:40] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[11:47:40] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[11:47:40] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[11:47:41] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[11:47:41] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[11:47:41] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v3.2.0
+[11:47:41] [Server thread/INFO]: [DriveBackupV2] Loading DriveBackupV2 v1.3.7
+[11:47:41] [Server thread/INFO]: [SuperLobby] Loading SuperLobby v4.2.9
+[11:47:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:47:41] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v3.2.0
+[11:47:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:47:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[11:47:42] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.13.2 -> 1.13 mappings...
+[11:47:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:47:42] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.13.2 mappings...
+[11:47:42] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.15 -> 1.14 mappings...
+[11:47:42] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.16 -> 1.15 mappings...
+[11:47:42] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16.2 -> 1.16 mappings...
+[11:47:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:47:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:47:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:47:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:47:43] [Server thread/INFO]: Preparing level "Hub"
+[11:47:43] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.13 -> 1.12 mappings...
+[11:47:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:47:45] [Server thread/INFO]: Loaded 0 spawn chunks for world Hub
+[11:47:45] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:45] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:45] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:45] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:45] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:46] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:46] [Server thread/INFO]: Time elapsed: 2623 ms
+[11:47:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:47:46] [Server thread/INFO]: Loaded 0 spawn chunks for world Hub_the_end
+[11:47:46] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:46] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:47] [Server thread/INFO]: Preparing spawn area: 36%
+[11:47:47] [Server thread/INFO]: Time elapsed: 1268 ms
+[11:47:47] [Server thread/INFO]: [TAB] Enabling TAB v2.8.9
+[11:47:47] [Server thread/INFO]: [TAB] Server version: 1.16.4 (v1_16_R3)
+[11:47:48] [Server thread/INFO]: [TAB] Enabled in 318ms
+[11:47:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.2.1
+[11:47:48] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.3.7*
+[11:47:48] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[11:47:48] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
+[11:47:48] [Server thread/INFO]: [SuperLobby] Enabling SuperLobby v4.2.9
+[11:47:48] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[11:47:48] [Server thread/INFO]:    _____                       _           _     _           
+[11:47:48] [Server thread/INFO]:   / ____|                     | |         | |   | |          
+[11:47:48] [Server thread/INFO]:  | (___  _   _ _ __   ___ _ __| |     ___ | |__ | |__  _   _ 
+[11:47:48] [Server thread/INFO]:   \___ \| | | | '_ \ / _ \ '__| |    / _ \| '_ \| '_ \| | | |
+[11:47:48] [Server thread/INFO]:   ____) | |_| | |_) |  __/ |  | |___| (_) | |_) | |_) | |_| |
+[11:47:48] [Server thread/INFO]:  |_____/ \__,_| .__/ \___|_|  |______\___/|_.__/|_.__/ \__, |
+[11:47:48] [Server thread/INFO]:               | |                                       __/ |
+[11:47:48] [Server thread/INFO]:               |_|                                      |___/ 
+[11:47:48] [Server thread/INFO]:     
+[11:47:48] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[11:47:48] [Server thread/INFO]: [SuperLobby] Deluxe Version: V4.2.9
+[11:47:48] [Server thread/INFO]: [SuperLobby] Plugin Create by PedroJM96.
+[11:47:48] [Server thread/INFO]: [SuperLobby] Loading configuration...
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load config.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] config.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load messages_EN.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] messages_EN.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load spawn.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] spawn.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load chat.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] chat.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load infocommands.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] infocommands.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register info command /info
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register info command /help
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load customevents.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] customevents.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load items.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] items.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load menus.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] menus.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register command menu /menu
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register command menu /game
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register command menu /profile
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register command menu /shop
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load board.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] board.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Load announcer.yml
+[11:47:49] [Server thread/INFO]: [SuperLobby] announcer.yml loaded.
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register commands...
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register main command superlobby
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register sub-command setspawn
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register sub-command remspawn
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register sub-command reload
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register sub-command help
+[11:47:49] [Server thread/INFO]: [SuperLobby] Register sub-command openmenu
+[11:47:50] [Server thread/INFO]: [SuperLobby] Hooked ViaVersion
+[11:47:50] [Server thread/INFO]: [SuperLobby] A total of 4 menus were loaded.
+[11:47:50] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[11:47:50] [Server thread/INFO]: Running delayed init tasks
+[11:47:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4(754)
+[11:47:51] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[11:47:51] [Server thread/INFO]: Done (29.003s)! For help, type "help"
+[11:47:51] [Server thread/INFO]: Timings Reset
+[11:47:51] [Craft Scheduler Thread - 3/INFO]: [DriveBackupV2] Checking for updates...
+[11:47:53] [Craft Scheduler Thread - 3/INFO]: [DriveBackupV2] Hooray! You are running the latest release!
+[11:52:27] [User Authenticator #1/INFO]: UUID of player Static_Pirate is 76d9b416-c008-3f82-9740-8af8d74ac306
+[11:52:28] [pool-9-thread-6/WARN]: [TAB] Loaded class us.myles.ViaVersion.api.Via from ViaVersion v3.2.1 which is not a depend, softdepend or loadbefore of this plugin.
+[11:52:28] [Server thread/INFO]: [DriveBackupV2] Enabling automatic backups
+[11:52:28] [Server thread/INFO]: The owner Static_Pirate joined the server!
+[11:52:29] [Server thread/INFO]: Static_Pirate[/127.0.0.1:55561] logged in with entity id 9 at ([Hub]374.1222882297112, 30.0, 373.99224571407774)
+[12:00:50] [Server thread/INFO]: Static_Pirate lost connection: Disconnected
+[12:00:50] [Server thread/INFO]: The owner Static_Pirate leave the server!
+[12:02:27] [User Authenticator #2/INFO]: UUID of player Static_Pirate is 76d9b416-c008-3f82-9740-8af8d74ac306
+[12:02:27] [Server thread/INFO]: The owner Static_Pirate joined the server!
+[12:02:27] [Server thread/INFO]: Static_Pirate[/127.0.0.1:38459] logged in with entity id 22 at ([Hub]378.97514716283735, 31.0, 369.6248312865671)
+[12:03:15] [Server thread/INFO]: Static_Pirate lost connection: Disconnected
+[12:03:15] [Server thread/INFO]: The owner Static_Pirate leave the server!
+[12:47:50] [Craft Scheduler Thread - 8/INFO]: [DriveBackupV2] No backup method is enabled

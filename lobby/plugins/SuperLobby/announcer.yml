@@ -1,0 +1,44 @@
+
+message:
+  enable: true
+  interval: 1000
+  list:
+    message1:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6If there is a problem with the server or you want to suggest something, go to the website!:'
+    - '&e&l>&e&l> &6https://theboysmine.weebly.com'
+    - '&6&l&m>-----------------------------------------<'
+titles:
+  enable: false
+  interval: 500
+  list:
+    titles1:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: '&b/server'
+      subtitle: '&bIf your confused use the command /server!'
+bossbar:
+  enable: false
+  interval: 200
+  list:
+    bossbar1:
+      color: RED
+      style: NOTCHED_20
+      seconds: 10
+      message: '&bmc.mundopixels.net'
+    bossbar2:
+      color: PURPLE
+      style: NOTCHED_20
+      seconds: 10
+      message: '&6&lMUNDO&f&lPIXELS &fNETWORK!'
+actionbar:
+  enable: false
+  interval: 300
+  list:
+    actionbar1:
+      stay: 50
+      message: '&bmc.mundopixels.net'
+    actionbar2:
+      stay: 50
+      message: '&6&lMUNDO&f&lPIXELS &fNETWORK!'

@@ -1,0 +1,676 @@
+13:15:23 [INFO] Using mbed TLS based native cipher.
+13:15:23 [INFO] Using zlib based native compressor.
+13:15:23 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+13:15:23 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:15:23 [INFO] Epoll is working, utilising it!
+13:15:23 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:15:23 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:15:23 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:15:23 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:15:23 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:15:23 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:15:23 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:15:23 [INFO] Attempting to Jenkins download module cmd_alert v1539
+
+13:15:24 [INFO] Failed to download: UnknownHostException : ci.md-5.net @ sun.nio.ch.NioSocketImpl:567
+
+13:15:24 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:15:24 [INFO] Attempting to Jenkins download module cmd_find v1539
+
+13:15:24 [INFO] Failed to download: UnknownHostException : ci.md-5.net @ sun.nio.ch.NioSocketImpl:567
+
+13:15:24 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:15:24 [INFO] Attempting to Jenkins download module cmd_list v1539
+
+13:15:24 [INFO] Failed to download: UnknownHostException : ci.md-5.net @ sun.nio.ch.NioSocketImpl:567
+
+13:15:24 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:15:24 [INFO] Attempting to Jenkins download module cmd_send v1539
+
+13:15:24 [INFO] Failed to download: UnknownHostException : ci.md-5.net @ sun.nio.ch.NioSocketImpl:567
+
+13:15:24 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:15:24 [INFO] Attempting to Jenkins download module cmd_server v1539
+
+13:15:24 [INFO] Failed to download: UnknownHostException : ci.md-5.net @ sun.nio.ch.NioSocketImpl:567
+
+13:15:24 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:15:24 [INFO] Attempting to Jenkins download module reconnect_yaml v1539
+
+13:15:24 [INFO] Failed to download: UnknownHostException : ci.md-5.net @ sun.nio.ch.NioSocketImpl:567
+
+13:15:24 [WARNING] Forced host server pvp is not defined
+13:15:25 [INFO] Listening on /0.0.0.0:25577
+13:15:42 [INFO] Closing listener [id: 0xe0439afe, L:/0.0.0.0:25577]
+13:15:42 [INFO] Closing pending connections
+13:15:42 [INFO] Disconnecting 0 connections
+13:15:43 [INFO] Disabling plugins
+13:15:43 [INFO] Closing IO threads
+13:16:15 [INFO] Using mbed TLS based native cipher.
+13:16:15 [INFO] Using zlib based native compressor.
+13:16:15 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+13:16:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:16:16 [INFO] Epoll is working, utilising it!
+13:16:16 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:16:16 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:16:16 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:16:16 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:16:16 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:16:16 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:16:16 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:16:16 [INFO] Attempting to Jenkins download module cmd_alert v1539
+
+13:16:17 [INFO] Download complete
+
+13:16:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:16:17 [INFO] Attempting to Jenkins download module cmd_find v1539
+
+13:16:17 [INFO] Download complete
+
+13:16:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:16:17 [INFO] Attempting to Jenkins download module cmd_list v1539
+
+13:16:17 [INFO] Download complete
+
+13:16:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:16:17 [INFO] Attempting to Jenkins download module cmd_send v1539
+
+13:16:17 [INFO] Download complete
+
+13:16:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:16:17 [INFO] Attempting to Jenkins download module cmd_server v1539
+
+13:16:17 [INFO] Download complete
+
+13:16:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1539, git=9c078b7)
+
+13:16:17 [INFO] Attempting to Jenkins download module reconnect_yaml v1539
+
+13:16:17 [INFO] Download complete
+
+13:16:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [WARNING] Forced host server pvp is not defined
+13:16:18 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:16:18 [INFO] Listening on /0.0.0.0:25577
+13:16:22 [INFO] Closing listener [id: 0x982a70ec, L:/0.0.0.0:25577]
+13:16:22 [INFO] Closing pending connections
+13:16:22 [INFO] Disconnecting 0 connections
+13:16:23 [INFO] Saving reconnect locations
+13:16:23 [INFO] Disabling plugins
+13:16:23 [INFO] Closing IO threads
+13:36:45 [INFO] Using mbed TLS based native cipher.
+13:36:45 [INFO] Using zlib based native compressor.
+13:36:45 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+13:36:45 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:36:45 [INFO] Epoll is working, utilising it!
+13:36:45 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:36:45 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:36:45 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:36:45 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:36:45 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:36:45 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:36:45 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:45 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:45 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:45 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:45 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:45 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [WARNING] Forced host server pvp is not defined
+13:36:46 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:36:46 [INFO] Listening on /0.0.0.0:25565
+13:36:58 [INFO] Closing listener [id: 0x6beb88cc, L:/0.0.0.0:25565]
+13:36:58 [INFO] Closing pending connections
+13:36:58 [INFO] Disconnecting 0 connections
+13:36:58 [INFO] Saving reconnect locations
+13:36:58 [INFO] Disabling plugins
+13:36:58 [INFO] Closing IO threads
+13:41:28 [INFO] Using mbed TLS based native cipher.
+13:41:28 [INFO] Using zlib based native compressor.
+13:41:28 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+13:41:28 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:41:28 [INFO] Epoll is working, utilising it!
+13:41:28 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:41:28 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:41:28 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:41:28 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:41:28 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:41:28 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:41:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [WARNING] Forced host server pvp is not defined
+13:41:28 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:28 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:41:29 [INFO] Listening on /0.0.0.0:25565
+13:41:32 [INFO] §cCommand not found
+13:41:34 [INFO] Closing listener [id: 0x6161f333, L:/0.0.0.0:25565]
+13:41:34 [INFO] Closing pending connections
+13:41:34 [INFO] Disconnecting 0 connections
+13:41:35 [INFO] Saving reconnect locations
+13:41:35 [INFO] Disabling plugins
+13:41:35 [INFO] Closing IO threads
+13:47:15 [INFO] Using mbed TLS based native cipher.
+13:47:15 [INFO] Using zlib based native compressor.
+13:47:15 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+13:47:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:47:16 [INFO] Epoll is working, utilising it!
+13:47:16 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:47:16 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:47:16 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:47:16 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:47:16 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:47:16 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:47:16 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [WARNING] Forced host server pvp is not defined
+13:47:16 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+13:47:16 [INFO] Listening on /0.0.0.0:25565
+14:10:52 [INFO] [/127.0.0.1:35954] <-> InitialHandler has connected
+14:10:53 [INFO] [UnicornSienna] <-> ServerConnector [lobby] has connected
+14:11:11 [INFO] [UnicornSienna] <-> ServerConnector [survival] has connected
+14:11:12 [INFO] [UnicornSienna] <-> DownstreamBridge <-> [lobby] has disconnected
+14:11:35 [INFO] [UnicornSienna] <-> ServerConnector [lobby] has connected
+14:11:35 [INFO] [UnicornSienna] <-> DownstreamBridge <-> [survival] has disconnected
+14:12:15 [INFO] [UnicornSienna] -> UpstreamBridge has disconnected
+14:12:15 [INFO] [UnicornSienna] <-> DownstreamBridge <-> [lobby] has disconnected
+14:12:37 [INFO] [/127.0.0.1:35962] <-> InitialHandler has pinged
+14:13:08 [INFO] Closing listener [id: 0xaeb84f85, L:/0.0.0.0:25565]
+14:13:08 [INFO] Closing pending connections
+14:13:08 [INFO] Disconnecting 0 connections
+14:13:08 [INFO] Saving reconnect locations
+14:13:08 [INFO] Disabling plugins
+14:13:08 [INFO] Closing IO threads
+20:36:05 [INFO] Using mbed TLS based native cipher.
+20:36:05 [INFO] Using zlib based native compressor.
+20:36:05 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+20:36:06 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:36:06 [INFO] Epoll is working, utilising it!
+20:36:06 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:36:06 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:36:06 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:36:06 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:36:06 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:36:06 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:36:06 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [WARNING] Forced host server pvp is not defined
+20:36:06 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:36:06 [INFO] Listening on /0.0.0.0:25565
+20:36:13 [INFO] Closing listener [id: 0x25717754, L:/0:0:0:0:0:0:0:0%0:25565]
+20:36:13 [INFO] Closing pending connections
+20:36:13 [INFO] Disconnecting 0 connections
+20:36:13 [INFO] Saving reconnect locations
+20:36:13 [INFO] Disabling plugins
+20:36:13 [INFO] Closing IO threads
+21:04:29 [INFO] Using mbed TLS based native cipher.
+21:04:29 [INFO] Using zlib based native compressor.
+21:04:29 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+21:04:29 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:04:30 [INFO] Epoll is working, utilising it!
+21:04:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:04:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:04:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:04:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:04:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:04:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:04:30 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:30 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:30 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:30 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:30 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:30 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [WARNING] Forced host server pvp is not defined
+21:04:31 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+21:04:31 [INFO] Listening on /0.0.0.0:25565
+11:50:35 [INFO] [/144.91.91.185:37256] <-> InitialHandler has pinged
+13:48:20 [INFO] [/74.78.133.239:51186] <-> InitialHandler has connected
+13:48:22 [INFO] [Voidwalker204] <-> ServerConnector [lobby] has connected
+13:48:41 [INFO] [Voidwalker204] -> UpstreamBridge has disconnected
+13:48:41 [INFO] [Voidwalker204] <-> DownstreamBridge <-> [lobby] has disconnected
+18:01:43 [INFO] [/10.210.1.1:57967] <-> InitialHandler has pinged
+18:01:46 [INFO] [UnicornSienna,/10.210.1.1:57972] <-> InitialHandler has connected
+18:01:47 [INFO] [UnicornSienna] <-> ServerConnector [lobby] has connected
+18:01:54 [INFO] [UnicornSienna] -> UpstreamBridge has disconnected
+18:01:54 [INFO] [UnicornSienna] <-> DownstreamBridge <-> [lobby] has disconnected
+18:01:54 [INFO] [/10.210.1.1:57985] <-> InitialHandler has pinged
+18:09:08 [INFO] [/10.210.1.1:58544] <-> InitialHandler has pinged
+18:09:09 [INFO] [/10.210.1.1:58546] <-> InitialHandler has connected
+18:09:10 [INFO] [UnicornSienna] <-> ServerConnector [lobby] has connected
+18:09:15 [INFO] [UnicornSienna] -> UpstreamBridge has disconnected
+18:09:15 [INFO] [UnicornSienna] <-> DownstreamBridge <-> [lobby] has disconnected
+18:09:15 [INFO] [/10.210.1.1:58555] <-> InitialHandler has pinged
+18:11:31 [INFO] [/10.210.1.1:58784] <-> InitialHandler has pinged
+18:22:28 [INFO] [/10.210.1.1:59616] <-> InitialHandler has pinged
+18:22:29 [INFO] [Static_Pirate,/10.210.1.1:59620] <-> InitialHandler has connected
+18:22:30 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+18:24:57 [INFO] §cCommand not found
+18:25:58 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+18:25:58 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+18:43:04 [INFO] [/10.210.1.1:61141] <-> InitialHandler has pinged
+18:43:07 [INFO] [/10.210.1.1:61146] <-> InitialHandler has pinged
+18:43:09 [INFO] [Static_Pirate,/10.210.1.1:61148] <-> InitialHandler has connected
+18:43:10 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+18:47:42 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+18:47:42 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+18:51:30 [INFO] [/10.210.1.1:61810] <-> InitialHandler has pinged
+18:51:31 [INFO] [Static_Pirate,/10.210.1.1:61812] <-> InitialHandler has connected
+18:51:32 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+18:58:02 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+18:58:02 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+19:03:02 [INFO] [/10.210.1.1:58658] <-> InitialHandler has pinged
+20:05:10 [INFO] Using mbed TLS based native cipher.
+20:05:10 [INFO] Using zlib based native compressor.
+20:05:10 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+20:05:11 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:05:11 [INFO] Epoll is working, utilising it!
+20:05:11 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:05:11 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:05:11 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:05:11 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:05:11 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:05:11 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:05:12 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [WARNING] Forced host server pvp is not defined
+20:05:12 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:12 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+20:05:13 [INFO] Listening on /0.0.0.0:25565
+20:07:12 [INFO] [/10.210.1.1:53070] <-> InitialHandler has pinged
+20:07:14 [WARNING] [/10.210.1.1:53070] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+20:16:23 [INFO] [/10.210.1.1:58929] <-> InitialHandler has pinged
+20:16:25 [INFO] [/10.210.1.1:58935] <-> InitialHandler has pinged
+20:16:31 [INFO] [/10.210.1.1:58950] <-> InitialHandler has pinged
+20:20:39 [INFO] [/10.210.1.1:59360] <-> InitialHandler has pinged
+20:21:50 [INFO] [/10.210.1.1:53316] <-> InitialHandler has pinged
+20:22:02 [INFO] [/10.210.1.1:53324] <-> InitialHandler has pinged
+20:22:43 [INFO] [/10.210.1.1:53326] <-> InitialHandler has pinged
+20:22:44 [INFO] [/10.210.1.1:53328] <-> InitialHandler has pinged
+20:22:44 [INFO] [/10.210.1.1:53330] <-> InitialHandler has pinged
+20:22:44 [WARNING] [/10.210.1.1:53330] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+20:22:44 [INFO] [/10.210.1.1:53332] <-> InitialHandler has pinged
+20:22:45 [INFO] [/10.210.1.1:53334] <-> InitialHandler has pinged
+20:22:45 [INFO] [/10.210.1.1:53336] <-> InitialHandler has pinged
+20:22:45 [INFO] [/10.210.1.1:53338] <-> InitialHandler has pinged
+20:22:45 [INFO] [/10.210.1.1:53340] <-> InitialHandler has pinged
+20:22:45 [INFO] [/10.210.1.1:53342] <-> InitialHandler has pinged
+20:22:46 [INFO] [/10.210.1.1:53344] <-> InitialHandler has pinged
+20:22:46 [INFO] [/10.210.1.1:53346] <-> InitialHandler has pinged
+20:22:46 [WARNING] [/10.210.1.1:53346] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+20:22:46 [INFO] [/10.210.1.1:53348] <-> InitialHandler has pinged
+20:22:46 [INFO] [/10.210.1.1:53350] <-> InitialHandler has pinged
+20:22:47 [INFO] [/10.210.1.1:53352] <-> InitialHandler has pinged
+20:22:47 [INFO] [/10.210.1.1:53354] <-> InitialHandler has pinged
+20:22:47 [INFO] [/10.210.1.1:53356] <-> InitialHandler has pinged
+20:22:48 [INFO] [/10.210.1.1:53358] <-> InitialHandler has pinged
+20:22:48 [INFO] [/10.210.1.1:53360] <-> InitialHandler has pinged
+20:22:48 [WARNING] [/10.210.1.1:53360] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+20:22:48 [INFO] [/10.210.1.1:53362] <-> InitialHandler has pinged
+20:22:49 [INFO] [/10.210.1.1:53364] <-> InitialHandler has pinged
+20:22:49 [INFO] [/10.210.1.1:53366] <-> InitialHandler has pinged
+20:22:49 [INFO] [/10.210.1.1:53368] <-> InitialHandler has pinged
+20:22:49 [INFO] [/10.210.1.1:53370] <-> InitialHandler has pinged
+20:22:50 [INFO] [/10.210.1.1:53372] <-> InitialHandler has pinged
+20:22:50 [WARNING] [/10.210.1.1:53372] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+20:22:50 [INFO] [/10.210.1.1:53374] <-> InitialHandler has pinged
+20:23:07 [INFO] [/10.210.1.1:53376] <-> InitialHandler has pinged
+20:24:02 [INFO] [/10.210.1.1:53382] <-> InitialHandler has pinged
+20:24:03 [INFO] [/10.210.1.1:53384] <-> InitialHandler has pinged
+20:24:03 [INFO] [/10.210.1.1:53386] <-> InitialHandler has pinged
+20:24:04 [INFO] [/10.210.1.1:53388] <-> InitialHandler has pinged
+20:24:04 [INFO] [/10.210.1.1:53390] <-> InitialHandler has pinged
+20:24:05 [INFO] [/10.210.1.1:53392] <-> InitialHandler has pinged
+20:24:05 [INFO] [/10.210.1.1:53394] <-> InitialHandler has pinged
+20:24:06 [INFO] [/10.210.1.1:53396] <-> InitialHandler has pinged
+20:24:06 [INFO] [/10.210.1.1:53398] <-> InitialHandler has pinged
+20:24:06 [INFO] [/10.210.1.1:53400] <-> InitialHandler has pinged
+20:24:06 [INFO] [/10.210.1.1:53402] <-> InitialHandler has pinged
+20:24:07 [INFO] [/10.210.1.1:53404] <-> InitialHandler has pinged
+20:24:07 [INFO] [/10.210.1.1:53406] <-> InitialHandler has pinged
+20:24:08 [INFO] [/10.210.1.1:53408] <-> InitialHandler has pinged
+20:24:08 [INFO] [/10.210.1.1:53410] <-> InitialHandler has pinged
+20:24:08 [INFO] [/10.210.1.1:53412] <-> InitialHandler has pinged
+20:24:08 [INFO] [/10.210.1.1:53414] <-> InitialHandler has pinged
+20:24:09 [INFO] [/10.210.1.1:53416] <-> InitialHandler has pinged
+20:24:09 [INFO] [/10.210.1.1:53418] <-> InitialHandler has pinged
+20:24:09 [INFO] [/10.210.1.1:53420] <-> InitialHandler has pinged
+20:24:10 [INFO] [/10.210.1.1:53422] <-> InitialHandler has pinged
+20:24:50 [INFO] [/10.210.1.1:53432] <-> InitialHandler has pinged
+20:25:29 [INFO] [/10.210.1.1:53448] <-> InitialHandler has pinged
+20:25:55 [INFO] [/10.210.1.1:53450] <-> InitialHandler has pinged
+20:26:45 [INFO] [/10.210.1.1:53480] <-> InitialHandler has pinged
+20:27:43 [INFO] [/10.210.1.1:53484] <-> InitialHandler has pinged
+20:28:40 [INFO] [/10.210.1.1:53516] <-> InitialHandler has pinged
+20:28:48 [INFO] [/10.210.1.1:53518] <-> InitialHandler has pinged
+20:28:49 [INFO] [/10.210.1.1:53520] <-> InitialHandler has pinged
+20:28:49 [INFO] [/10.210.1.1:53522] <-> InitialHandler has pinged
+20:28:49 [INFO] [/10.210.1.1:53524] <-> InitialHandler has pinged
+20:28:49 [INFO] [/10.210.1.1:53526] <-> InitialHandler has pinged
+20:28:50 [INFO] [/10.210.1.1:53528] <-> InitialHandler has pinged
+20:28:50 [INFO] [/10.210.1.1:53530] <-> InitialHandler has pinged
+20:28:50 [INFO] [/10.210.1.1:53532] <-> InitialHandler has pinged
+20:29:31 [INFO] [/10.210.1.1:60089] <-> InitialHandler has pinged
+20:29:38 [INFO] [/10.210.1.1:60099] <-> InitialHandler has pinged
+20:29:52 [INFO] [/10.210.1.1:60118] <-> InitialHandler has pinged
+20:30:19 [INFO] [/10.210.1.1:60152] <-> InitialHandler has pinged
+20:31:48 [INFO] [/10.210.1.1:60398] <-> InitialHandler has pinged
+20:35:55 [INFO] [/10.210.1.1:60679] <-> InitialHandler has pinged
+21:40:26 [INFO] [/10.210.1.1:49400] <-> InitialHandler has pinged
+21:40:38 [INFO] [/10.210.1.1:49419] <-> InitialHandler has pinged
+22:23:44 [INFO] [/10.210.1.1:53150] <-> InitialHandler has pinged
+22:30:00 [INFO] §cCommand not found
+22:31:06 [INFO] [/10.210.1.1:53945] <-> InitialHandler has pinged
+22:31:08 [INFO] [/10.210.1.1:53951] <-> InitialHandler has pinged
+22:31:21 [INFO] Closing listener [id: 0x4e65e005, L:/0:0:0:0:0:0:0:0%0:25565]
+22:31:21 [INFO] Closing pending connections
+22:31:21 [INFO] Disconnecting 0 connections
+22:31:21 [INFO] Saving reconnect locations
+22:31:21 [INFO] Disabling plugins
+22:31:21 [INFO] Closing IO threads
+22:31:31 [INFO] Using mbed TLS based native cipher.
+22:31:31 [INFO] Using zlib based native compressor.
+22:31:31 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+22:31:31 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+22:31:31 [INFO] Epoll is working, utilising it!
+22:31:31 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+22:31:31 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+22:31:31 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+22:31:31 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+22:31:31 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+22:31:31 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+22:31:31 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:31 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:31 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:31 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:31 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:31 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [WARNING] Forced host server pvp is not defined
+22:31:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+22:31:32 [INFO] Listening on /0.0.0.0:25565
+22:32:46 [INFO] [/10.210.1.1:54166] <-> InitialHandler has pinged
+22:32:46 [INFO] [/10.210.1.1:54168] <-> InitialHandler has pinged
+09:48:11 [INFO] [/10.210.1.1:51546] <-> InitialHandler has pinged
+09:48:15 [INFO] [/10.210.1.1:51552] <-> InitialHandler has connected
+09:48:17 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:01:19 [INFO] [/10.210.1.1:52626] <-> InitialHandler has pinged
+10:01:19 [INFO] [Static_Pirate,/10.210.1.1:52625] <-> InitialHandler has connected
+10:01:20 [INFO] [Static_Pirate] disconnected with: §cYou are already connected to this proxy!
+10:01:20 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:01:20 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:01:20 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:01:28 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:01:28 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:01:28 [INFO] [/10.210.1.1:52639] <-> InitialHandler has pinged
+10:01:31 [WARNING] [/10.210.1.1:52626] <-> InitialHandler - NativeIoException: readAddress(..) failed: Connection reset by peer
+10:01:33 [INFO] [Static_Pirate,/10.210.1.1:52651] <-> InitialHandler has connected
+10:01:34 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:02:09 [INFO] [/10.210.1.1:52756] <-> InitialHandler has pinged
+10:02:09 [INFO] [UnicornSienna,/10.210.1.1:52757] <-> InitialHandler has connected
+10:02:10 [INFO] [UnicornSienna] <-> ServerConnector [lobby] has connected
+10:03:18 [INFO] [UnicornSienna] -> UpstreamBridge has disconnected
+10:03:18 [INFO] [UnicornSienna] <-> DownstreamBridge <-> [lobby] has disconnected
+10:03:18 [INFO] [/10.210.1.1:52844] <-> InitialHandler has pinged
+10:10:24 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:10:24 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:18:30 [INFO] [/10.210.1.1:54120] <-> InitialHandler has pinged
+10:18:31 [INFO] [Static_Pirate,/10.210.1.1:54123] <-> InitialHandler has connected
+10:18:32 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:19:08 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:19:08 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:19:08 [INFO] [/10.210.1.1:54171] <-> InitialHandler has pinged
+10:19:09 [INFO] [Static_Pirate,/10.210.1.1:54174] <-> InitialHandler has connected
+10:19:09 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:19:20 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:19:20 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:19:20 [INFO] [/10.210.1.1:54188] <-> InitialHandler has pinged
+10:19:21 [INFO] [Static_Pirate,/10.210.1.1:54190] <-> InitialHandler has connected
+10:19:22 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:25:59 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:25:59 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:25:59 [INFO] [/10.210.1.1:54633] <-> InitialHandler has pinged
+10:26:00 [INFO] [Static_Pirate,/10.210.1.1:54636] <-> InitialHandler has connected
+10:26:01 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+10:26:52 [INFO] [Static_Pirate] <-> ServerConnector [survival] has connected
+10:26:53 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+10:27:35 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+10:27:35 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [survival] has disconnected
+10:27:36 [INFO] [/10.210.1.1:54745] <-> InitialHandler has pinged
+10:27:37 [INFO] [Static_Pirate,/10.210.1.1:54747] <-> InitialHandler has connected
+10:27:37 [INFO] [Static_Pirate] <-> ServerConnector [survival] has connected
+11:17:14 [WARNING] [Static_Pirate] -> UpstreamBridge - NativeIoException: readAddress(..) failed: Connection reset by peer
+11:17:14 [INFO] [Static_Pirate] disconnected with: §fNativeIoException : readAddress(..) failed: Connection reset by peer
+11:17:14 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [survival] has disconnected
+11:17:14 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+16:10:21 [INFO] [/10.210.1.1:47618] <-> InitialHandler has pinged
+05:00:34 [INFO] [/10.210.1.1:58734] <-> InitialHandler has pinged
+05:00:42 [INFO] [/10.210.1.1:58745] <-> InitialHandler has pinged
+05:01:36 [INFO] [/10.210.1.1:58807] <-> InitialHandler has pinged
+05:22:45 [INFO] [/10.210.1.1:59693] <-> InitialHandler has pinged
+06:12:26 [INFO] [/10.210.1.1:60191] <-> InitialHandler has pinged
+09:46:30 [INFO] [/10.210.1.1:62290] <-> InitialHandler has pinged
+09:46:52 [INFO] [/10.210.1.1:62298] <-> InitialHandler has pinged
+10:16:07 [INFO] [/10.210.1.1:62779] <-> InitialHandler has pinged
+10:18:11 [INFO] [/10.210.1.1:62803] <-> InitialHandler has pinged
+12:45:50 [INFO] [/10.210.1.1:64186] <-> InitialHandler has pinged
+13:40:11 [INFO] [/10.210.1.1:64549] <-> InitialHandler has pinged
+14:03:48 [INFO] [/10.210.1.1:64834] <-> InitialHandler has pinged
+14:17:18 [INFO] [/10.210.1.1:65262] <-> InitialHandler has pinged
+14:45:14 [INFO] [/10.210.1.1:65398] <-> InitialHandler has pinged
+18:09:27 [INFO] [/10.210.1.1:51301] <-> InitialHandler has pinged
+18:30:14 [INFO] [/10.210.1.1:51415] <-> InitialHandler has pinged
+18:42:52 [INFO] [/10.210.1.1:51492] <-> InitialHandler has pinged
+19:21:23 [INFO] [/10.210.1.1:51676] <-> InitialHandler has pinged
+19:21:32 [INFO] [/10.210.1.1:48628] <-> InitialHandler has pinged
+21:04:00 [INFO] [/10.210.1.1:52441] <-> InitialHandler has pinged
+21:13:44 [INFO] [/10.210.1.1:52543] <-> InitialHandler has pinged
+21:36:05 [INFO] [/10.210.1.1:52854] <-> InitialHandler has pinged
+21:56:56 [INFO] [/10.210.1.1:53288] <-> InitialHandler has pinged
+22:51:53 [INFO] [/10.210.1.1:54435] <-> InitialHandler has pinged
+00:06:09 [INFO] [/10.210.1.1:54779] <-> InitialHandler has pinged
+00:27:34 [INFO] [/10.210.1.1:54881] <-> InitialHandler has pinged
+11:49:50 [INFO] [/10.210.1.1:56875] <-> InitialHandler has pinged
+11:50:50 [INFO] [/10.210.1.1:56885] <-> InitialHandler has pinged
+12:45:19 [INFO] [/10.210.1.1:57126] <-> InitialHandler has pinged
+14:24:30 [INFO] [/10.210.1.1:57768] <-> InitialHandler has pinged
+14:33:19 [INFO] [/10.210.1.1:57911] <-> InitialHandler has pinged
+14:51:51 [INFO] [/10.210.1.1:57984] <-> InitialHandler has pinged
+16:53:58 [INFO] [/10.210.1.1:58884] <-> InitialHandler has pinged
+16:59:47 [INFO] [/10.210.1.1:58921] <-> InitialHandler has pinged
+09:32:07 [INFO] [/10.210.1.1:52970] <-> InitialHandler has pinged
+09:39:19 [INFO] [/10.210.1.1:53053] <-> InitialHandler has pinged
+10:16:24 [INFO] [/10.210.1.1:53461] <-> InitialHandler has pinged
+11:02:40 [INFO] [/10.210.1.1:53702] <-> InitialHandler has pinged
+14:07:10 [INFO] [/10.210.1.1:55042] <-> InitialHandler has pinged
+15:23:51 [INFO] [/10.210.1.1:55586] <-> InitialHandler has pinged
+17:46:54 [INFO] [/10.210.1.1:56787] <-> InitialHandler has pinged
+09:33:49 [INFO] [/10.210.1.1:61614] <-> InitialHandler has pinged
+14:30:46 [INFO] [/10.210.1.1:64360] <-> InitialHandler has pinged
+14:30:56 [INFO] [/10.210.1.1:64364] <-> InitialHandler has pinged
+11:08:49 [INFO] [/10.210.1.1:53551] <-> InitialHandler has pinged
+11:22:28 [INFO] [/10.210.1.1:55152] <-> InitialHandler has pinged
+12:49:28 [INFO] §cCommand not found
+12:49:31 [INFO] §cCommand not found
+12:49:35 [INFO] §cCommand not found
+13:25:36 [INFO] [/10.210.1.1:55194] <-> InitialHandler has pinged
+15:43:40 [INFO] Using mbed TLS based native cipher.
+15:43:40 [INFO] Using zlib based native compressor.
+15:43:40 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+15:43:40 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:43:40 [INFO] Epoll is working, utilising it!
+15:43:41 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+15:43:41 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+15:43:41 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+15:43:41 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+15:43:41 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+15:43:41 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:43:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [WARNING] Forced host server pvp is not defined
+15:43:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:42 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+15:43:43 [INFO] Listening on /0.0.0.0:25588
+15:47:46 [INFO] [/127.0.0.1:48602] <-> InitialHandler has pinged
+15:47:48 [INFO] [/127.0.0.1:48604] <-> InitialHandler has connected
+15:47:50 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+15:49:15 [INFO] [Static_Pirate] <-> ServerConnector [anarchy] has connected
+15:49:16 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+16:56:04 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+16:56:04 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [anarchy] has disconnected
+16:57:39 [INFO] [/127.0.0.1:48728] <-> InitialHandler has pinged
+17:05:01 [INFO] §cCommand not found
+11:46:27 [INFO] Using mbed TLS based native cipher.
+11:46:27 [INFO] Using zlib based native compressor.
+11:46:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.4-SNAPSHOT:9c078b7:1539
+11:46:27 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:46:27 [INFO] Epoll is working, utilising it!
+11:46:28 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+11:46:28 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+11:46:28 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+11:46:28 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+11:46:28 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+11:46:28 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:46:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [WARNING] Forced host server pvp is not defined
+11:46:29 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:9c078b7:1539 by SpigotMC
+11:46:29 [INFO] Listening on /0.0.0.0:25588
+11:52:18 [INFO] [/10.210.1.107:65432] <-> InitialHandler has pinged
+11:52:24 [INFO] [/10.210.1.107:65433] <-> InitialHandler has connected
+11:52:27 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+11:56:58 [INFO] [Static_Pirate] <-> ServerConnector [knx] has connected
+11:56:58 [SEVERE] [Static_Pirate] <-> ServerConnector [knx] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+11:56:58 [INFO] [Static_Pirate] <-> ServerConnector [knx] has disconnected
+11:59:50 [INFO] [Static_Pirate] <-> ServerConnector [knx] has connected
+11:59:51 [INFO] [Static_Pirate] <-> ServerConnector [knx] has disconnected
+12:00:27 [INFO] [Static_Pirate] <-> ServerConnector [knx] has connected
+12:00:27 [INFO] [Static_Pirate] <-> ServerConnector [knx] has disconnected
+12:00:49 [INFO] [Static_Pirate] <-> ServerConnector [knx] has connected
+12:00:50 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected
+12:01:43 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+12:01:43 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [knx] has disconnected
+12:01:48 [INFO] [/10.210.1.107:49165] <-> InitialHandler has pinged
+12:01:51 [INFO] [/10.210.1.107:49166] <-> InitialHandler has pinged
+12:01:52 [INFO] [Static_Pirate,/10.210.1.107:49167] <-> InitialHandler has connected
+12:01:53 [INFO] [Static_Pirate] <-> ServerConnector [knx] has connected
+12:02:15 [INFO] [Static_Pirate] disconnected with: §f§fServer closed
+12:02:15 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+12:02:15 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [knx] has disconnected
+12:02:26 [INFO] [/10.210.1.107:49181] <-> InitialHandler has connected
+12:02:26 [INFO] [Static_Pirate] <-> ServerConnector [lobby] has connected
+12:03:15 [INFO] [Static_Pirate] -> UpstreamBridge has disconnected
+12:03:15 [INFO] [Static_Pirate] <-> DownstreamBridge <-> [lobby] has disconnected

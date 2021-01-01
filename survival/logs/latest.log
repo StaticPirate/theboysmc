@@ -1,0 +1,71 @@
+[11:48:00] [main/INFO]: Reloading ResourceManager: Default, bukkit, classic fishing loot v1.1.0, double shulker shells v1.3.0, multiplayer sleep v2.5.2
+[11:48:03] [Worker-Main-6/INFO]: Loaded 7 recipes
+[11:48:04] [Worker-Main-6/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[11:48:07] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[11:48:07] [Server thread/INFO]: Loading properties
+[11:48:07] [Server thread/INFO]: This server is running Paper version git-Paper-332 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[11:48:07] [Server thread/INFO]: Debug logging is disabled
+[11:48:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:48:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:48:08] [Server thread/INFO]: Default game type: SURVIVAL
+[11:48:08] [Server thread/INFO]: Generating keypair
+[11:48:08] [Server thread/INFO]: Starting Minecraft server on *:25567
+[11:48:08] [Server thread/INFO]: Using epoll channel type
+[11:48:10] [Server thread/INFO]: [TAB] Loading TAB v2.8.9
+[11:48:10] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.2.1
+[11:48:10] [Server thread/INFO]: [ViaVersion] ViaVersion 3.2.1 is now loaded, injecting!
+[11:48:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[11:48:11] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[11:48:12] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[11:48:12] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[11:48:12] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[11:48:12] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v3.2.0
+[11:48:12] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[11:48:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:48:12] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v3.2.0
+[11:48:12] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:48:12] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[11:48:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:48:13] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.13.2 -> 1.13 mappings...
+[11:48:13] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.13 -> 1.12 mappings...
+[11:48:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.14 -> 1.13.2 mappings...
+[11:48:14] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.15 -> 1.14 mappings...
+[11:48:14] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.16 -> 1.15 mappings...
+[11:48:14] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16.2 -> 1.16 mappings...
+[11:48:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:48:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:48:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:48:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:48:14] [Server thread/INFO]: Preparing level "world"
+[11:48:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:48:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[11:48:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:19] [Server thread/INFO]: Preparing spawn area: 14%
+[11:48:19] [Server thread/INFO]: Preparing spawn area: 14%
+[11:48:19] [Server thread/INFO]: Preparing spawn area: 58%
+[11:48:19] [Server thread/INFO]: Time elapsed: 3578 ms
+[11:48:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:48:19] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[11:48:19] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:19] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:20] [Server thread/INFO]: Preparing spawn area: 34%
+[11:48:20] [Server thread/INFO]: Preparing spawn area: 42%
+[11:48:21] [Server thread/INFO]: Preparing spawn area: 89%
+[11:48:21] [Server thread/INFO]: Time elapsed: 2460 ms
+[11:48:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:48:22] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[11:48:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:48:22] [Server thread/INFO]: Time elapsed: 302 ms
+[11:48:22] [Server thread/INFO]: [TAB] Enabling TAB v2.8.9
+[11:48:22] [Server thread/INFO]: [TAB] Server version: 1.16.4 (v1_16_R3)
+[11:48:22] [Server thread/INFO]: [TAB] Enabled in 130ms
+[11:48:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.2.1
+[11:48:23] [Server thread/INFO]: Running delayed init tasks
+[11:48:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4(754)
+[11:48:23] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[11:48:23] [Server thread/INFO]: Done (16.224s)! For help, type "help"
+[11:48:23] [Server thread/INFO]: Timings Reset
